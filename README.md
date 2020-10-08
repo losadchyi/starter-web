@@ -16,3 +16,6 @@ Deploy here
 
  more intro text
  Some more text
+ 
+ ### Copyright
+ copyrighted
