@@ -15,10 +15,10 @@ and here
 
 ## Introduction
 
-# Intro text
+### Intro text
 
  more intro text
  Some more text
  
  ### Copyright
- copyrighted
+ copyrighted ALL RIGHTS RESERVED
